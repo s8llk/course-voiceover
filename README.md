@@ -16,7 +16,7 @@ git init
 git add .
 git commit -m "init"
 git branch -M main
-git remote add origin https://github.com/USERNAME/REPO.git
+git remote add origin https://s8llk.github.io/course-voiceover/
 git push -u origin main
 ```
 3) انشر:
