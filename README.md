@@ -3,7 +3,8 @@
 ## تشغيل محلياً
 ```bash
 npm install
-npm run dev
+npm run deploy
+
 ```
 
 ## النشر على GitHub Pages
